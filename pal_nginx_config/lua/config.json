@@ -1,0 +1,21 @@
+{
+    "user_id_key": "uid",
+    "user_name_key": "cn",
+
+    "redis_host": "172.16.7.127",
+    "redis_port": "6379",
+    "redis_password": "",
+    "redis_database": "0",
+    "redis_pool_max_idle_time": 10000,
+    "redis_pool_size": 2000,
+    
+    "ids_domain_schema": "http",
+    "ids_domain": "authserver.wisedu.com",
+    "ids_domain_port": "80",
+    "ids_domain_context": "authserver",
+
+    "cloud_domain": "ampdev.wisedu.com",
+    "cloud_domain_context": "appcenter",
+
+    "school_domain": "demo.wisedu.com"
+}
